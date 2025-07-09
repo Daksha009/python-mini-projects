@@ -1,0 +1,35 @@
+Welcome to the Hotel Restaurant Menu!
+Here is our menu:
+
+Appetizers:
+  Spring Rolls: ₹169
+  Garlic Bread: ₹189
+  Stuffed Mushrooms: ₹649
+  Bruschetta: ₹199
+  Caprese Salad: ₹299
+  Chicken Wings: ₹249
+  Nachos: ₹299
+Main Course:
+  Grilled Salmon: ₹899
+  Chicken Alfredo: ₹749
+  Vegetable Stir Fry: ₹599
+  Tacos: ₹699
+  Pasta Primavera: ₹649
+  Margherita Pizza: ₹499
+  BBQ Paneer and Veggies: ₹899
+Desserts:
+  Chocolate Lava Cake: ₹299
+  Cheesecake: ₹249
+  Tiramisu: ₹299
+  Fruit Tart: ₹199
+  Ice Cream Sundae: ₹149
+  Apple Pie: ₹199
+  Brownie with Ice Cream: ₹249
+Beverages:
+  Soft Drinks: ₹99
+  Fresh Juice: ₹149
+  Coffee: ₹99
+  Tea: ₹89
+  Mocktails: ₹199
+  Milkshakes: ₹249
+  Mineral Water: ₹49
